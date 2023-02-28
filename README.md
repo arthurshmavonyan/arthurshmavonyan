@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurshmavonyan&label=Profile%20views&color=0e75b6&style=flat" alt="arthurshmavonyan" /> </p>
-<h3 align="center">A frontend developer from Armenia</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 
 
-<div align="center">**arthurshmavonyan@gmail.com**</div>
+**arthurshmavonyan@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

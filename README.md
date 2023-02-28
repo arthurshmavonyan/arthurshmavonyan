@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A Frontend Developer</h3>
-<align="center">
 **arthurshmavonyan@gmail.com**
-</>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
